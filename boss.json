@@ -1,0 +1,9 @@
+{
+	"name": "horse-oauth2-introspect",
+	"description": "Middleware for OAuth2 token introspection in Horse",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/horse-oauth2-introspect",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
